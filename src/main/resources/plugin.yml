@@ -1,0 +1,5 @@
+name: ReNameTag
+main: com.adognamedspot.renametag.ReNameTag
+version: ${project.version}
+author: A DoG NaMeD SpoT
+api-version: '1.20'
